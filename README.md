@@ -65,11 +65,10 @@ GET /teams
   { "id": 3, "name": "Bayern München" }
 ]
 
-```` bash
 # Instalar dependências
 npm install
 
 # Rodar em modo dev
 npm run start:dev
-````
+
 
